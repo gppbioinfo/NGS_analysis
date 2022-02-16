@@ -1,5 +1,5 @@
 ################################################################
-# A wrapper script to perform NGS analysis for RNA-Seq, small RNA-Seq, WGS, Bisulfite-Seq, ChIP-Seq and CLIP-Seq.
+# A wrapper script to perform NGS analysis for RNA-Seq, small RNA-Seq, etc.
 # Under GNU open source license
 ################################################################
 
